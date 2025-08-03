@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@archive/*": ["archive/*"],
+      "@hauler/*": ["components/hauler/*"],
+      "@utils/*": ["utils/*"],
+      "@utils/auction/*": ["utils/auction/*"],
+      "@lib/*": ["lib/*"],
+      "@components/*": ["components/*"]
+    }
+  }
+}
