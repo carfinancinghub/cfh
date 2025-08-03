@@ -1,0 +1,9 @@
+*.log
+*.ini
+*.env
+*.ps1
+*.txt
+node_modules/
+WPromptOutput/
+lostfiles/
+**/log*/
